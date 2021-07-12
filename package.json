@@ -1,0 +1,25 @@
+{
+  "name": "gm",
+  "version": "1.0.0",
+  "description": "fg",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm start "
+  },
+  "author": "vh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endblack/gm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/endblack/gm/issues"
+  },
+  "homepage": "https://github.com/endblack/gm#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
